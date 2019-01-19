@@ -1,0 +1,2 @@
+# Socrates
+Little helper
