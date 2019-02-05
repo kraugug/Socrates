@@ -10,6 +10,10 @@ Little helper.
 
 - Under the development.
 
+# Usage
+
+- When application running, press Ctrl+Win+Space and see what happens :).
+
 # License
 
 - Socrates is under the GNU General Public License v3.0 license. See the [LICENSE](https://github.com/kraugug/Socrates/blob/master/LICENSE)
